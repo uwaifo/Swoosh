@@ -22,4 +22,7 @@
     <string name="beginner">BEGINNER</string>
     <string name="baller">BALLER</string>
     <string name="finish">FINISH</string>
+    <string name="backgroud_string_skill_backgroud_image">backgroud @string/skill_backgroud_image</string>
+    <string name="search_league">looking for a co-ed beginer league near you . . .</string>
+    <string name="textview">TextView</string>
 </resources>
