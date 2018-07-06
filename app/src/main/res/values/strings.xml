@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">Swoosh</string>
     <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+    <string name="app_logo">app logo</string>
+    <string name="desired_league">Desired League:</string>
+    <string name="men_s">Men\'s</string>
+    <string name="woman_s">Woman\'s</string>
+    <string name="co_ed">Co-Ed</string>
+    <string name="next">NEXT</string>
+    <string name="women_s">Women\'s</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_going_all_out">ON GOING ALL OUT</string>
+    <string name="find_a_team_in_your_city_and_dominate_the_league">Find A Team In Your City, and Dominate The League</string>
+    <string name="get_started_now">GET STARTED NOW</string>
+    <string name="bgImage">backgroud image</string>
+    <string name="leagueLogoImage">logo image</string>
+    <string name="background_image">background image</string>
+    <string name="skill_backgroud_image">skill backgroud image</string>
+    <string name="skill_logo_string_background_image">skill logo @string/background_image</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginer_string_skill_backgroud_image">beginer @string/skill_backgroud_image</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
 </resources>
